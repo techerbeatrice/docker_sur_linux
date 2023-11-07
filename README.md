@@ -26,6 +26,15 @@ Il est possible de supprimer des images locales avec la commande docker image **
 
 ___
 
+👉 Lancer un conteneur   
+L'exécution d'une image consiste pour Docker à créer un conteneur.   
+
 **docker run hello-world** exécute l'image **hello-world**  
 
 ![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/ecf9a687-3e65-44b7-8970-adefc0bc6cc3)
+
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/949e14b4-5001-4b6a-9e8c-d9b2f3e61c8b)
+
+___
+
+
