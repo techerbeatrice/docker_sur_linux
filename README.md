@@ -23,3 +23,9 @@ ___
 ___
 
 Il est possible de supprimer des images locales avec la commande docker image **rm (ou docker rmi en raccourci)**.      
+
+___
+
+**docker run hello-world** exécute l'image **hello-world**  
+
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/ecf9a687-3e65-44b7-8970-adefc0bc6cc3)
