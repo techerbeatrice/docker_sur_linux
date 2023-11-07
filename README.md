@@ -10,3 +10,6 @@ ___
 
 ____
 
+**docker image ls** pour afficher la liste des images   
+
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/cd1648bc-e48e-49ec-b459-87d0a451f71c)
