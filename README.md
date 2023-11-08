@@ -38,3 +38,4 @@ L'exécution d'une image consiste pour Docker à créer un conteneur.
 ___
 
 
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/a412cfbe-ecef-4c5e-8dc5-211d1ee37745)
