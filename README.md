@@ -37,3 +37,12 @@ L'exécution d'une image consiste pour Docker à créer un conteneur.
 
 ___
 
+🔬 Lancement d'un conteneur serveur    
+Tentons maintenant d'exécuter un conteneur serveur.   
+Lance directement le conteneur avec la commande docker run -dp 8000:80 httpd.   
+L'option d pour l'executer en tâche de fond, et l'option p 8000:80 pour indiquer de mettre en port 8000 de l'hôte en écoute et de transferer les paquets qui y arrivent sur le port 80 du conteneur.   
+
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/4119a4d4-08d4-4f3f-be74-ae468a427a74)
+
+____
+
