@@ -73,3 +73,6 @@ ____
 
 ![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/ddef1dc4-19be-44e5-b0ce-f3c04676431b)
 
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/d6057b8f-df23-4ef2-96b9-5eaf6af302e5)
+
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/bacebc13-6500-4df0-9632-2d9d923a54b4)
