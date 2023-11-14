@@ -37,7 +37,7 @@ L'exécution d'une image consiste pour Docker à créer un conteneur.
 
 ___
 
-🔬 Lancement d'un conteneur serveur    
+🔬 Lancement d'un conteneur interactif       
 
 ![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/4119a4d4-08d4-4f3f-be74-ae468a427a74)
 
@@ -62,3 +62,14 @@ On peut aussi vérifier que le port 8000 est bien ouvert sur le système hôte.
 Et surtout plus intéréssant, on peut maintenant se connecter sur le serveur web en insérant http://localhost:8000 dans la barre d'adresse.       
 
 ![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/ca70bb80-d04f-4311-9069-531d36c3682d)
+
+Docker offre la possibilité d’accéder aux journaux du conteneur à l'aide de docker container logs (ou docker logs en plus court) suivi de l'identifiant du conteneur. Lesquels font, dans ce cas, apparaître les requêtes HTTP reçues.   
+
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/ba900fe2-a57e-4670-b908-4d507d6c1fba)
+
+La commande docker stop suivi de l'identifiant du conteneur permet d’arrêter le conteneur, et donc de couper le serveur web.    
+
+____
+
+![image](https://github.com/techerbeatrice/docker_sur_linux/assets/138071140/ddef1dc4-19be-44e5-b0ce-f3c04676431b)
+
